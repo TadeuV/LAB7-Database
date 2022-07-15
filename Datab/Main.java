@@ -15,7 +15,7 @@ public class Main {
         
         String url = "jdbc:mysql://127.0.0.1:3306/testdb";
         String user="root";
-        String password="Mtt0720K@";
+        String password="password";
         String rowsAffected;
 
         Scanner Sc = new Scanner(System.in);
