@@ -10,7 +10,7 @@ public class App {
     public static void main(String[] args) {
         String url = "jdbc:mysql://127.0.0.1:3306/testdb";
         String user="root";
-        String password="Mtt0720K@";
+        String password="password";
         int rowsAffected=0;
         
         try {
